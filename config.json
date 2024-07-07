@@ -1,0 +1,13 @@
+{
+  "SDK_VERSION": "v0.50.5",
+  "COIN_TYPE": "60",
+  "MIN_TX_FEE": 0.01,
+  "BASE_COIN": "uallo",
+  "SYMBOL": "ALLO",
+  "EXPONENT": 6,
+  "COINGECKO_ID": "allora",
+  "RPC": "https://allora-api.testnet.allora.network",
+  "AMOUNT_TO_SEND": 10,
+  "PREFIX": "allora",
+  "TIME_SLEEP": 5
+}
